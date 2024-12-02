@@ -1,0 +1,542 @@
+[
+    {
+        "cidade": "Albufeira",
+        "codigosPostais": ["8200-001", "8200-002", "8200-003"]
+    },
+    {
+        "cidade": "Alijó",
+        "codigosPostais": ["5070-001", "5070-002", "5070-003"]
+    },
+    {
+        "cidade": "Aljustrel",
+        "codigosPostais": ["7600-001", "7600-002", "7600-003"]
+    },
+    {
+        "cidade": "Almada",
+        "codigosPostais": ["2800-001", "2800-002", "2800-003"]
+    },
+    {
+        "cidade": "Almeirim",
+        "codigosPostais": ["2080-001", "2080-002", "2080-003"]
+    },
+    {
+        "cidade": "Almodôvar",
+        "codigosPostais": ["7700-001", "7700-002", "7700-003"]
+    },
+    {
+        "cidade": "Alvaiázere",
+        "codigosPostais": ["3250-001", "3250-002", "3250-003"]
+    },
+    {
+        "cidade": "Alvito",
+        "codigosPostais": ["7920-001", "7920-002", "7920-003"]
+    },
+    {
+        "cidade": "Amadora",
+        "codigosPostais": ["2700-001", "2700-002", "2700-003"]
+    },
+    {
+        "cidade": "Ansião",
+        "codigosPostais": ["3240-001", "3240-002", "3240-003"]
+    },
+    {
+        "cidade": "Angra do Heroísmo",
+        "codigosPostais": ["9700-001", "9700-002", "9700-003"]
+    },
+    {
+        "cidade": "Arcos de Valdevez",
+        "codigosPostais": ["4970-001", "4970-002", "4970-003"]
+    },
+    {
+        "cidade": "Arganil",
+        "codigosPostais": ["3300-001", "3300-002", "3300-003"]
+    },
+    {
+        "cidade": "Armamar",
+        "codigosPostais": ["5110-001", "5110-002", "5110-003"]
+    },
+    {
+        "cidade": "Arouca",
+        "codigosPostais": ["4540-001", "4540-002", "4540-003"]
+    },
+    {
+        "cidade": "Arronches",
+        "codigosPostais": ["7340-001", "7340-002", "7340-003"]
+    },
+    {
+        "cidade": "Arruda dos Vinhos",
+        "codigosPostais": ["2630-001", "2630-002", "2630-003"]
+    },
+    {
+        "cidade": "Aveiro",
+        "codigosPostais": ["3800-001", "3800-002", "3800-003"]
+    },
+    {
+        "cidade": "Avis",
+        "codigosPostais": ["7480-001", "7480-002", "7480-003"]
+    },
+    {
+        "cidade": "Azambuja",
+        "codigosPostais": ["2050-001", "2050-002", "2050-003"]
+    },
+    {
+        "cidade": "Baião",
+        "codigosPostais": ["4640-001", "4640-002", "4640-003"]
+    },
+    {
+        "cidade": "Barreiro",
+        "codigosPostais": ["2830-001", "2830-002", "2830-003"]
+    },
+    {
+        "cidade": "Barrancos",
+        "codigosPostais": ["7230-001", "7230-002", "7230-003"]
+    },
+    {
+        "cidade": "Batalha",
+        "codigosPostais": ["2440-001", "2440-002", "2440-003"]
+    },
+    {
+        "cidade": "Beja",
+        "codigosPostais": ["7800-001", "7800-002", "7800-003"]
+    },
+    {
+        "cidade": "Belmonte",
+        "codigosPostais": ["6250-001", "6250-002", "6250-003"]
+    },
+    {
+        "cidade": "Bombarral",
+        "codigosPostais": ["2540-001", "2540-002", "2540-003"]
+    },
+    {
+        "cidade": "Borba",
+        "codigosPostais": ["7150-001", "7150-002", "7150-003"]
+    },
+    {
+        "cidade": "Boticas",
+        "codigosPostais": ["5460-001", "5460-002", "5460-003"]
+    },
+    {
+        "cidade": "Braga",
+        "codigosPostais": ["4700-001", "4700-002", "4700-003"]
+    },
+    {
+        "cidade": "Bragança",
+        "codigosPostais": ["5300-001", "5300-002", "5300-003"]
+    },
+    {
+        "cidade": "Caldas da Rainha",
+        "codigosPostais": ["2500-001", "2500-002", "2500-003"]
+    },
+    {
+        "cidade": "Câmara de Lobos",
+        "codigosPostais": ["9300-001", "9300-002", "9300-003"]
+    },
+    {
+        "cidade": "Caminha",
+        "codigosPostais": ["4910-001", "4910-002", "4910-003"]
+    },
+    {
+        "cidade": "Cantanhede",
+        "codigosPostais": ["3060-001", "3060-002", "3060-003"]
+    },
+    {
+        "cidade": "Carrazeda de Ansiães",
+        "codigosPostais": ["5140-001", "5140-002", "5140-003"]
+    },
+    {
+        "cidade": "Carregal do Sal",
+        "codigosPostais": ["3430-001", "3430-002", "3430-003"]
+    },
+    {
+        "cidade": "Cartaxo",
+        "codigosPostais": ["2070-001", "2070-002", "2070-003"]
+    },
+    {
+        "cidade": "Castanheira de Pera",
+        "codigosPostais": ["3280-001", "3280-002", "3280-003"]
+    },
+    {
+        "cidade": "Castelo Branco",
+        "codigosPostais": ["6000-001", "6000-002", "6000-003"]
+    },
+    {
+        "cidade": "Castelo de Paiva",
+        "codigosPostais": ["4550-001", "4550-002", "4550-003"]
+    },
+    {
+        "cidade": "Castro Daire",
+        "codigosPostais": ["3600-001", "3600-002", "3600-003"]
+    },
+    {
+        "cidade": "Castro Marim",
+        "codigosPostais": ["8950-001", "8950-002", "8950-003"]
+    },
+    {
+        "cidade": "Castro Verde",
+        "codigosPostais": ["7780-001", "7780-002", "7780-003"]
+    },
+    {
+        "cidade": "Chaves",
+        "codigosPostais": ["5400-001", "5400-002", "5400-003"]
+    },
+    {
+        "cidade": "Celorico da Beira",
+        "codigosPostais": ["6360-001", "6360-002", "6360-003"]
+    },
+    {
+        "cidade": "Celorico de Basto",
+        "codigosPostais": ["4890-001", "4890-002", "4890-003"]
+    },
+    {
+        "cidade": "Coimbra",
+        "codigosPostais": ["3000-001", "3000-002", "3000-003"]
+    },
+    {
+        "cidade": "Condeixa-a-Nova",
+        "codigosPostais": ["3150-001", "3150-002", "3150-003"]
+    },
+    {
+        "cidade": "Covilhã",
+        "codigosPostais": ["6200-001", "6200-002", "6200-003"]
+    },
+    {
+        "cidade": "Évora",
+        "codigosPostais": ["7000-001", "7000-002", "7000-003"]
+    },
+    {
+        "cidade": "Elvas",
+        "codigosPostais": ["7350-001", "7350-002", "7350-003"]
+    },
+    {
+        "cidade": "Entroncamento",
+        "codigosPostais": ["2330-001", "2330-002", "2330-003"]
+    },
+    {
+        "cidade": "Espinho",
+        "codigosPostais": ["4500-001", "4500-002", "4500-003"]
+    },
+    {
+        "cidade": "Estarreja",
+        "codigosPostais": ["3860-001", "3860-002", "3860-003"]
+    },
+    {
+        "cidade": "Estremoz",
+        "codigosPostais": ["7100-001", "7100-002", "7100-003"]
+    },
+    {
+        "cidade": "Faro",
+        "codigosPostais": ["8000-001", "8000-002", "8000-003"]
+    },
+    {
+        "cidade": "Felgueiras",
+        "codigosPostais": ["4610-001", "4610-002", "4610-003"]
+    },
+    {
+        "cidade": "Figueira da Foz",
+        "codigosPostais": ["3080-001", "3080-002", "3080-003"]
+    },
+    {
+        "cidade": "Funchal",
+        "codigosPostais": ["9000-001", "9000-002", "9000-003"]
+    },
+    {
+        "cidade": "Gondomar",
+        "codigosPostais": ["4420-001", "4420-002", "4420-003"]
+    },
+    {
+        "cidade": "Guarda",
+        "codigosPostais": ["6300-001", "6300-002", "6300-003"]
+    },
+    {
+        "cidade": "Guimarães",
+        "codigosPostais": ["4800-001", "4800-002", "4800-003"]
+    },
+    {
+        "cidade": "Horta",
+        "codigosPostais": ["9900-001", "9900-002", "9900-003"]
+    },
+    {
+        "cidade": "Lagoa",
+        "codigosPostais": ["8400-001", "8400-002", "8400-003"]
+    },
+    {
+        "cidade": "Lagos",
+        "codigosPostais": ["8600-001", "8600-002", "8600-003"]
+    },
+    {
+        "cidade": "Lamego",
+        "codigosPostais": ["5100-001", "5100-002", "5100-003"]
+    },
+    {
+        "cidade": "Leiria",
+        "codigosPostais": ["2400-001", "2400-002", "2400-003"]
+    },
+    {
+        "cidade": "Lisboa",
+        "codigosPostais": ["1000-001", "1000-002", "1000-003"]
+    },
+    {
+        "cidade": "Loulé",
+        "codigosPostais": ["8100-001", "8100-002", "8100-003"]
+    },
+    {
+        "cidade": "Loures",
+        "codigosPostais": ["2670-001", "2670-002", "2670-003"]
+    },
+    {
+        "cidade": "Lourinhã",
+        "codigosPostais": ["2530-001", "2530-002", "2530-003"]
+    },
+    {
+        "cidade": "Mação",
+        "codigosPostais": ["6120-001", "6120-002", "6120-003"]
+    },
+    {
+        "cidade": "Maia",
+        "codigosPostais": ["4470-001", "4470-002", "4470-003"]
+    },
+    {
+        "cidade": "Marinha Grande",
+        "codigosPostais": ["2430-001", "2430-002", "2430-003"]
+    },
+    {
+        "cidade": "Matosinhos",
+        "codigosPostais": ["4450-001", "4450-002", "4450-003"]
+    },
+    {
+        "cidade": "Mealhada",
+        "codigosPostais": ["3050-001", "3050-002", "3050-003"]
+    },
+    {
+        "cidade": "Mirandela",
+        "codigosPostais": ["5370-001", "5370-002", "5370-003"]
+    },
+    {
+        "cidade": "Moita",
+        "codigosPostais": ["2860-001", "2860-002", "2860-003"]
+    },
+    {
+        "cidade": "Monção",
+        "codigosPostais": ["4950-001", "4950-002", "4950-003"]
+    },
+    {
+        "cidade": "Montemor-o-Novo",
+        "codigosPostais": ["7050-001", "7050-002", "7050-003"]
+    },
+    {
+        "cidade": "Montemor-o-Velho",
+        "codigosPostais": ["3140-001", "3140-002", "3140-003"]
+    },
+    {
+        "cidade": "Montijo",
+        "codigosPostais": ["2870-001", "2870-002", "2870-003"]
+    },
+    {
+        "cidade": "Nazaré",
+        "codigosPostais": ["2450-001", "2450-002", "2450-003"]
+    },
+    {
+        "cidade": "Odivelas",
+        "codigosPostais": ["2675-001", "2675-002", "2675-003"]
+    },
+    {
+        "cidade": "Oeiras",
+        "codigosPostais": ["2780-001", "2780-002", "2780-003"]
+    },
+    {
+        "cidade": "Oliveira de Azeméis",
+        "codigosPostais": ["3720-001", "3720-002", "3720-003"]
+    },
+    {
+        "cidade": "Oliveira do Bairro",
+        "codigosPostais": ["3770-001", "3770-002", "3770-003"]
+    },
+    {
+        "cidade": "Oliveira do Hospital",
+        "codigosPostais": ["3400-001", "3400-002", "3400-003"]
+    },
+    {
+        "cidade": "Ourém",
+        "codigosPostais": ["2490-001", "2490-002", "2490-003"]
+    },
+    {
+        "cidade": "Paços de Ferreira",
+        "codigosPostais": ["4590-001", "4590-002", "4590-003"]
+    },
+    {
+        "cidade": "Palmela",
+        "codigosPostais": ["2950-001", "2950-002", "2950-003"]
+    },
+    {
+        "cidade": "Paredes",
+        "codigosPostais": ["4580-001", "4580-002", "4580-003"]
+    },
+    {
+        "cidade": "Peniche",
+        "codigosPostais": ["2520-001", "2520-002", "2520-003"]
+    },
+    {
+        "cidade": "Pombal",
+        "codigosPostais": ["3100-001", "3100-002", "3100-003"]
+    },
+    {
+        "cidade": "Ponta Delgada",
+        "codigosPostais": ["9500-001", "9500-002", "9500-003"]
+    },
+    {
+        "cidade": "Portalegre",
+        "codigosPostais": ["7300-001", "7300-002", "7300-003"]
+    },
+    {
+        "cidade": "Portimão",
+        "codigosPostais": ["8500-001", "8500-002", "8500-003"]
+    },
+    {
+        "cidade": "Porto",
+        "codigosPostais": ["4000-001", "4000-002", "4000-003"]
+    },
+    {
+        "cidade": "Porto Moniz",
+        "codigosPostais": ["9270-001", "9270-002", "9270-003"]
+    },
+    {
+        "cidade": "Porto Santo",
+        "codigosPostais": ["9400-001", "9400-002", "9400-003"]
+    },
+    {
+        "cidade": "Praia da Vitória",
+        "codigosPostais": ["9760-001", "9760-002", "9760-003"]
+    },
+    {
+        "cidade": "Proença-a-Nova",
+        "codigosPostais": ["6150-001", "6150-002", "6150-003"]
+    },
+    {
+        "cidade": "Póvoa de Varzim",
+        "codigosPostais": ["4490-001", "4490-002", "4490-003"]
+    },
+    {
+        "cidade": "Redondo",
+        "codigosPostais": ["7170-001", "7170-002", "7170-003"]
+    },
+    {
+        "cidade": "Reguengos de Monsaraz",
+        "codigosPostais": ["7200-001", "7200-002", "7200-003"]
+    },
+    {
+        "cidade": "Ribeira Grande",
+        "codigosPostais": ["9600-001", "9600-002", "9600-003"]
+    },
+    {
+        "cidade": "Rio Maior",
+        "codigosPostais": ["2040-001", "2040-002", "2040-003"]
+    },
+    {
+        "cidade": "Santa Comba Dão",
+        "codigosPostais": ["3440-001", "3440-002", "3440-003"]
+    },
+    {
+        "cidade": "Santarém",
+        "codigosPostais": ["2000-001", "2000-002", "2000-003"]
+    },
+    {
+        "cidade": "Santo Tirso",
+        "codigosPostais": ["4780-001", "4780-002", "4780-003"]
+    },
+    {
+        "cidade": "São João da Madeira",
+        "codigosPostais": ["3700-001", "3700-002", "3700-003"]
+    },
+    {
+        "cidade": "São Pedro do Sul",
+        "codigosPostais": ["3660-001", "3660-002", "3660-003"]
+    },
+    {
+        "cidade": "Seia",
+        "codigosPostais": ["6270-001", "6270-002", "6270-003"]
+    },
+    {
+        "cidade": "Sesimbra",
+        "codigosPostais": ["2970-001", "2970-002", "2970-003"]
+    },
+    {
+        "cidade": "Setúbal",
+        "codigosPostais": ["2900-001", "2900-002", "2900-003"]
+    },
+    {
+        "cidade": "Silves",
+        "codigosPostais": ["8300-001", "8300-002", "8300-003"]
+    },
+    {
+        "cidade": "Sines",
+        "codigosPostais": ["7520-001", "7520-002", "7520-003"]
+    },
+    {
+        "cidade": "Sintra",
+        "codigosPostais": ["2710-001", "2710-002", "2710-003"]
+    },
+    {
+        "cidade": "Sobral de Monte Agraço",
+        "codigosPostais": ["2590-001", "2590-002", "2590-003"]
+    },
+    {
+        "cidade": "Tarouca",
+        "codigosPostais": ["3610-001", "3610-002", "3610-003"]
+    },
+    {
+        "cidade": "Tavira",
+        "codigosPostais": ["8800-001", "8800-002", "8800-003"]
+    },
+    {
+        "cidade": "Tomar",
+        "codigosPostais": ["2300-001", "2300-002", "2300-003"]
+    },
+    {
+        "cidade": "Tondela",
+        "codigosPostais": ["3460-001", "3460-002", "3460-003"]
+    },
+    {
+        "cidade": "Torres Vedras",
+        "codigosPostais": ["2560-001", "2560-002", "2560-003"]
+    },
+    {
+        "cidade": "Trofa",
+        "codigosPostais": ["4785-001", "4785-002", "4785-003"]
+    },
+    {
+        "cidade": "Valença",
+        "codigosPostais": ["4930-001", "4930-002", "4930-003"]
+    },
+    {
+        "cidade": "Valongo",
+        "codigosPostais": ["4440-001", "4440-002", "4440-003"]
+    },
+    {
+        "cidade": "Vendas Novas",
+        "codigosPostais": ["7080-001", "7080-002", "7080-003"]
+    },
+    {
+        "cidade": "Viana do Castelo",
+        "codigosPostais": ["4900-001", "4900-002", "4900-003"]
+    },
+    {
+        "cidade": "Vila do Conde",
+        "codigosPostais": ["4480-001", "4480-002", "4480-003"]
+    },
+    {
+        "cidade": "Vila Franca de Xira",
+        "codigosPostais": ["2600-001", "2600-002", "2600-003"]
+    },
+    {
+        "cidade": "Vila Nova de Gaia",
+        "codigosPostais": ["4400-001", "4400-002", "4400-003"]
+    },
+    {
+        "cidade": "Vila Real",
+        "codigosPostais": ["5000-001", "5000-002", "5000-003"]
+    },
+    {
+        "cidade": "Viseu",
+        "codigosPostais": ["3500-001", "3500-002", "3500-003"]
+    }
+]

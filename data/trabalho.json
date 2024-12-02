@@ -1,0 +1,84 @@
+{
+  "situacoesEmprego": [
+    {
+      "situacao": "Empregado a tempo inteiro",
+      "idadeMin": 16,
+      "idadeMax": 65
+    },
+    {
+      "situacao": "Empregado a tempo parcial",
+      "idadeMin": 16,
+      "idadeMax": 65
+    },
+    {
+      "situacao": "Desempregado",
+      "idadeMin": 18,
+      "idadeMax": 65
+    },
+    {
+      "situacao": "Estudante",
+      "idadeMin": 1,
+      "idadeMax": 130
+    },
+    {
+      "situacao": "Reformado",
+      "idadeMin": 45,
+      "idadeMax": 130
+    },
+    {
+      "situacao": "Autónomo",
+      "idadeMin": 16,
+      "idadeMax": 130
+    },
+    {
+      "situacao": "Freelancer",
+      "idadeMin": 18,
+      "idadeMax": 130
+    },
+    {
+      "situacao": "Trabalhador sazonal",
+      "idadeMin": 18,
+      "idadeMax": 30
+    },
+    {
+      "situacao": "Licença de maternidade/paternidade",
+      "idadeMin": 18,
+      "idadeMax": 50
+    },
+    {
+      "situacao": "Incapacidade permanente",
+      "idadeMin": 50,
+      "idadeMax": 130
+    },
+    {
+      "situacao": "Voluntário",
+      "idadeMin": 16,
+      "idadeMax": 130
+    },
+    {
+      "situacao": "Trabalho não remunerado em casa",
+      "idadeMin": 16,
+      "idadeMax": 130
+    },
+    {
+      "situacao": "À procura do primeiro emprego",
+      "idadeMin": 16,
+      "idadeMax": 30
+    },
+    {
+      "situacao": "Emprego temporário",
+      "idadeMin": 16,
+      "idadeMax": 65
+    },
+    {
+      "situacao": "Estagiário",
+      "idadeMin": 16,
+      "idadeMax": 30
+    },
+    {
+      "situacao": "Aposentado com atividade adicional",
+      "idadeMin": 45,
+      "idadeMax": 100
+    }
+  ]
+}

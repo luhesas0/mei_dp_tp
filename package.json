@@ -1,0 +1,13 @@
+{
+  "name": "gerador-dados",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+   
+  },
+  "keywords": ["gerador", "dados", "NIF", "nomes", "idades", "cidades","sobrenome"],
+  "author": "José Soares 8240047, Luis Soares 8210396",
+  "license": "ISC",
+  "description": "Um gerador de dados fictícios incluindo NIF, nomes, sobrenome, idades e cidades. Este projeto foi elaborado para a aula de Dados e Privacidade no curso de mestrado 2024/2025."
+}

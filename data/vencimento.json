@@ -1,0 +1,44 @@
+{
+  "vencimentos": [
+    {
+      "faixa": "Menos de 500€",
+      "idadeMin": 0,
+      "idadeMax": 130
+    },
+    {
+      "faixa": "Entre 500€ e 999€",
+      "idadeMin": 18,
+      "idadeMax": 130
+    },
+    {
+      "faixa": "Entre 1.000€ e 1.499€",
+      "idadeMin": 18,
+      "idadeMax": 130
+    },
+    {
+      "faixa": "Entre 1.500€ e 1.999€",
+      "idadeMin": 18,
+      "idadeMax": 130
+    },
+    {
+      "faixa": "Entre 2.000€ e 2.999€",
+      "idadeMin": 18,
+      "idadeMax": 130
+    },
+    {
+      "faixa": "Entre 3.000€ e 3.999€",
+      "idadeMin": 18,
+      "idadeMax": 130
+    },
+    {
+      "faixa": "Entre 4.000€ e 4.999€",
+      "idadeMin": 18,
+      "idadeMax": 130
+    },
+    {
+      "faixa": "Mais de 5.000€",
+      "idadeMin": 18,
+      "idadeMax": 130
+    }
+  ]
+}

@@ -1,0 +1,141 @@
+\documentclass{article}
+\usepackage[utf8]{inputenc}
+\usepackage{hyperref}
+
+\title{Relatório Explicativo: Gerador de Dados Aleatórios}
+\author{}
+\date{}
+
+\begin{document}
+
+\maketitle
+
+\section{Introdução}
+Este projeto é um gerador de dados aleatórios sobre pessoas de nacionalidade portuguesa, desenvolvido em Node.js. O objetivo é gerar dados sintaticamente e semanticamente válidos, mas não verdadeiros, incluindo nomes, números de cartão de cidadão, e outros tipos de dados. O programa permite especificar a distribuição por gênero e apresenta os dados gerados em múltiplos formatos: JSON, HTML, CSV e TXT.
+
+\section{Estrutura do Projeto}
+
+\subsection{index.js}
+\textbf{Descrição}: Arquivo principal que inicia o processo de geração de dados. Faz perguntas ao utilizador sobre o nome da disciplina, a quantidade de pessoas a serem geradas e a percentagem do gênero masculino.
+
+\textbf{Funções}:
+\begin{itemize}
+    \item \texttt{perguntarNomeDisciplina()}: Pergunta o nome da disciplina e valida a resposta.
+    \item \texttt{perguntarConfiguracoes()}: Pergunta a quantidade de pessoas a serem geradas.
+    \item \texttt{perguntarPercentagemMasculino()}: Pergunta a percentagem do gênero masculino.
+    \item \texttt{gerarDados()}: Chama a função de geração de dados e salva os resultados em diferentes formatos.
+\end{itemize}
+
+\subsection{gerador.js}
+\textbf{Descrição}: Contém as funções para gerar os dados aleatórios.
+
+\textbf{Funções}:
+\begin{itemize}
+    \item \texttt{calcularGenero()}: Calcula o gênero com base na percentagem fornecida.
+    \item \texttt{carregarSituacoes()}: Carrega situações de um arquivo JSON.
+    \item \texttt{gerarSituacaoAleatoria()}: Gera uma situação aleatória com base na idade.
+    \item \texttt{gerarNumeroCartao()}: Gera um número de cartão de cidadão.
+    \item \texttt{gerarNIF()}: Gera um NIF válido.
+    \item \texttt{gerarNISS()}: Gera um NISS válido.
+    \item \texttt{gerarNumeroUtente()}: Gera um número de utente válido.
+    \item \texttt{gerarNome()}: Gera um ou dois nomes.
+    \item \texttt{gerarSobrenome()}: Gera um ou dois sobrenomes.
+    \item \texttt{gerarIdade()}: Gera uma idade aleatória.
+    \item \texttt{gerarCidade()}: Gera uma cidade aleatória.
+    \item \texttt{gerarEmail()}: Gera um e-mail aleatório.
+    \item \texttt{gerarFilhos()}: Gera a quantidade de filhos com base na idade.
+    \item \texttt{gerarTelemovel()}: Gera um número de telemóvel.
+    \item \texttt{gerarCodigoPostal()}: Gera um código postal com base na cidade.
+    \item \texttt{gerarVencimento()}: Gera um vencimento aleatório com base na idade.
+    \item \texttt{gerarDados()}: Função principal que gera todos os dados e retorna um array de objetos.
+\end{itemize}
+
+\subsection{formats.js}
+\textbf{Descrição}: Contém as funções para salvar os dados gerados em diferentes formatos.
+
+\textbf{Funções}:
+\begin{itemize}
+    \item \texttt{saveJSON()}: Salva os dados em formato JSON.
+    \item \texttt{saveCSV()}: Salva os dados em formato CSV.
+    \item \texttt{saveTXT()}: Salva os dados em formato TXT.
+    \item \texttt{saveHTML()}: Salva os dados em formato HTML.
+\end{itemize}
+
+\subsection{trabalho.json}
+\textbf{Descrição}: Contém as situações de emprego e as idades correspondentes.
+
+\subsection{vencimento.json}
+\textbf{Descrição}: Contém as faixas de vencimentos e as idades correspondentes.
+
+\subsection{Outros arquivos de configuração}
+\textbf{Descrição}: Contêm dados necessários para gerar informações fictícias, como nomes, cidades, sobrenomes, etc.
+
+\section{Manual de Utilização}
+
+\subsection{Instalação}
+Clone o repositório:
+\begin{verbatim}
+git clone <URL_DO_REPOSITORIO>
+cd <NOME_DO_REPOSITORIO>
+\end{verbatim}
+
+Instale as dependências:
+\begin{verbatim}
+npm install
+\end{verbatim}
+
+\subsection{Execução}
+Execute o script \texttt{index.js}:
+\begin{verbatim}
+node index.js
+\end{verbatim}
+
+Responda às perguntas:
+\begin{itemize}
+    \item Qual é o nome da disciplina? (A resposta deve ser "dados e privacidade")
+    \item Quantas pessoas deseja gerar?
+    \item Qual é a percentagem do gênero masculino que deseja gerar?
+\end{itemize}
+
+\subsection{Saída}
+Os dados gerados serão salvos na pasta \texttt{output} nos formatos JSON, CSV, TXT e HTML.
+
+\section{Demonstração de Execução}
+
+\subsection{Pergunta sobre o nome da disciplina}
+O programa pergunta "Qual é o nome da disciplina?" e espera a resposta "dados e privacidade". Se a resposta estiver correta, o programa continua; caso contrário, pede para tentar novamente.
+
+\subsection{Pergunta sobre a quantidade de pessoas}
+O programa pergunta "Quantas pessoas deseja gerar?" e valida a resposta para garantir que é um número maior que 0.
+
+\subsection{Pergunta sobre a percentagem do gênero masculino}
+O programa pergunta "Qual é a percentagem do gênero masculino que deseja gerar?" e valida a resposta para garantir que é um número entre 0 e 100.
+
+\subsection{Geração e salvamento dos dados}
+O programa gera os dados com base nas respostas fornecidas e salva os resultados nos formatos JSON, CSV, TXT e HTML na pasta \texttt{output}.
+
+\section{Descrição das Principais Seções de Código}
+
+\subsection{index.js}
+\begin{itemize}
+    \item \texttt{perguntarNomeDisciplina()}: Valida o nome da disciplina.
+    \item \texttt{perguntarConfiguracoes()}: Pergunta a quantidade de pessoas.
+    \item \texttt{perguntarPercentagemMasculino()}: Pergunta a percentagem do gênero masculino.
+    \item \texttt{gerarDados()}: Chama a função de geração de dados e salva os resultados.
+\end{itemize}
+
+\subsection{gerador.js}
+\begin{itemize}
+    \item Funções de geração de dados: Cada função gera um tipo específico de dado (nome, NIF, idade, cidade, etc.).
+    \item \texttt{gerarDados()}: Função principal que chama todas as funções de geração de dados e retorna um array de objetos.
+\end{itemize}
+
+\subsection{formats.js}
+\begin{itemize}
+    \item Funções de salvamento: Cada função salva os dados em um formato específico (JSON, CSV, TXT, HTML).
+\end{itemize}
+
+\section{Conclusão}
+Este projeto atende aos requisitos especificados, gerando dados sintaticamente e semanticamente válidos sobre pessoas de nacionalidade portuguesa. O programa permite especificar a distribuição por gênero e apresenta os dados gerados em múltiplos formatos. O relatório inclui um manual de utilização, uma demonstração de execução e uma descrição das principais seções de código.
+
+\end{document}

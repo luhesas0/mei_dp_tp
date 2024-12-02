@@ -1,0 +1,182 @@
+[
+  {
+    "id": 1,
+    "nome": "Aurélien",
+    "genero": "masculino",
+    "sobrenome": "Sanches Tristão",
+    "dataNascimento": "1922-11-12T00:00:00.000Z",
+    "idade": 102,
+    "morada": {
+      "address": "Rua das Areias 507",
+      "coordinates": [
+        [
+          -8.5602911,
+          41.154831
+        ],
+        [
+          -8.5602023,
+          41.1547798
+        ],
+        [
+          -8.5601616,
+          41.1548205
+        ],
+        [
+          -8.5602483,
+          41.1548738
+        ],
+        [
+          -8.5602911,
+          41.154831
+        ]
+      ]
+    },
+    "cidade": "Peniche",
+    "codigoPostal": "2520-001",
+    "situacaoEmprego": "Incapacidade permanente",
+    "vencimento": "Entre 4.000€ e 4.999€",
+    "nif": "227543238",
+    "niss": "13563803791",
+    "nus": "973683236",
+    "numeroCartao": "19195388*6*KW1",
+    "email": "8P6xj@icloud.com",
+    "filhos": 6,
+    "telemovel": "933091006"
+  },
+  {
+    "id": 2,
+    "nome": "Ceumir Micaelsun",
+    "genero": "masculino",
+    "sobrenome": "Amâncio Revaldo",
+    "dataNascimento": "1988-05-01T23:00:00.000Z",
+    "idade": 36,
+    "morada": {
+      "address": "Rua de Oliveira Martins 172",
+      "coordinates": [
+        [
+          -8.5938944,
+          41.1621538
+        ],
+        [
+          -8.5935517,
+          41.162113
+        ],
+        [
+          -8.5935377,
+          41.1621996
+        ],
+        [
+          -8.5938769,
+          41.1622417
+        ],
+        [
+          -8.5938944,
+          41.1621538
+        ]
+      ]
+    },
+    "cidade": "Sesimbra",
+    "codigoPostal": "2970-001",
+    "situacaoEmprego": "Empregado a tempo inteiro",
+    "vencimento": "Entre 1.500€ e 1.999€",
+    "nif": "153357967",
+    "niss": "18344523287",
+    "nus": "616037783",
+    "numeroCartao": "35701976*0*YM8",
+    "email": "1b187AFb82@zoho.com",
+    "filhos": 12,
+    "telemovel": "924185743"
+  },
+  {
+    "id": 3,
+    "nome": "Ednaiza Carmina",
+    "genero": "feminino",
+    "sobrenome": "Sabala",
+    "dataNascimento": "1990-07-22T23:00:00.000Z",
+    "idade": 34,
+    "morada": {
+      "address": "Rua do Padrão 182",
+      "coordinates": [
+        [
+          -8.4008779,
+          41.2833799
+        ],
+        [
+          -8.4008199,
+          41.2833396
+        ],
+        [
+          -8.4007059,
+          41.2834324
+        ],
+        [
+          -8.4007639,
+          41.2834726
+        ],
+        [
+          -8.4008779,
+          41.2833799
+        ]
+      ]
+    },
+    "cidade": "Mação",
+    "codigoPostal": "6120-003",
+    "situacaoEmprego": "Freelancer",
+    "vencimento": "Entre 3.000€ e 3.999€",
+    "nif": "135584043",
+    "niss": "10320942471",
+    "nus": "431359474",
+    "numeroCartao": "14936266*6*XS8",
+    "email": "6ceqJ0B@aol.com",
+    "filhos": 2,
+    "telemovel": "914507440"
+  },
+  {
+    "id": 4,
+    "nome": "Ghabriel Aleks",
+    "genero": "masculino",
+    "sobrenome": "Assunção",
+    "dataNascimento": "1978-07-26T23:00:00.000Z",
+    "idade": 46,
+    "morada": {
+      "address": "Avenida João de Deus 309",
+      "coordinates": [
+        [
+          -8.5561117,
+          41.2071419
+        ],
+        [
+          -8.5560839,
+          41.2071414
+        ],
+        [
+          -8.5559776,
+          41.2071394
+        ],
+        [
+          -8.5559758,
+          41.2071917
+        ],
+        [
+          -8.5561099,
+          41.2071942
+        ],
+        [
+          -8.5561117,
+          41.2071419
+        ]
+      ]
+    },
+    "cidade": "Oeiras",
+    "codigoPostal": "2780-003",
+    "situacaoEmprego": "Freelancer",
+    "vencimento": "Menos de 500€",
+    "nif": "294499741",
+    "niss": "10689790738",
+    "nus": "977192652",
+    "numeroCartao": "24506109*4*EZ9",
+    "email": "7U3o70W01k36B5@aol.com",
+    "filhos": 9,
+    "telemovel": "937505154"
+  }
+]

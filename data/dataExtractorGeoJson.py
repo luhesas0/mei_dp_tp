@@ -1,7 +1,7 @@
 import json
 
-input_file = 'dadosPrivacidade.geojson'
-output_file = 'moradas.json'
+input_file = 'nomex.geojson'
+output_file = 'moradasPreFinal.json'
 
 with open(input_file, 'r', encoding='utf-8') as file:
     geojson_data = json.load(file)
@@ -10,6 +10,7 @@ filtered_data = [
     {
         "street": feature['properties']['addr_street'],
         "house_number": feature['properties']['addr_housenumber'],
+        "postal_code": feature['properties']['addr_postcode'],
         "coordinates": feature['geometry']['coordinates']
     }
     for feature in geojson_data['features']
